@@ -1,3 +1,6 @@
 [submodule "hello-stacker-app-template"]
 	path = hello-stacker-app-template
 	url = https://github.com/alexandrefvb/hello-stacker-app-template.git
+[submodule "ask-stacker-name-plugin"]
+	path = ask-stacker-name-plugin
+	url = https://github.com/alexandrefvb/ask-stacker-name-plugin.git
