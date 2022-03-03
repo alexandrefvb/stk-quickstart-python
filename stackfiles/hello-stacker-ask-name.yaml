@@ -1,5 +1,5 @@
 type: app
-description: Python example aplication created with quickstart stack
+description: Python example application created with quickstart stack
 template: stk-quickstart-python/hello-stacker-app
 plugins:
-  - stk-quickstart-python/ask-stacker-name
+  - plugin: stk-quickstart-python/ask-stacker-name
